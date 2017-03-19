@@ -1,0 +1,16 @@
+D:\Projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+D:\Projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+D:\Projects\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+D:\Projects\MyFirstApp\MyFirstApp\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\MyFirstApp\MyFirstApp\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+D:\Projects\MyFirstApp\MyFirstApp\obj\Debug\MainWindow.baml
+D:\Projects\MyFirstApp\MyFirstApp\obj\Debug\MainWindow.g.cs
+D:\Projects\MyFirstApp\MyFirstApp\obj\Debug\App.g.cs
+D:\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp_MarkupCompile.cache
+D:\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.g.resources
+D:\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.Properties.Resources.resources
+D:\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.GenerateResource.Cache
+D:\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+D:\Projects\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
+D:\Projects\MyFirstApp\MyFirstApp\bin\Debug\Microsoft.ProjectOxford.Face.dll
