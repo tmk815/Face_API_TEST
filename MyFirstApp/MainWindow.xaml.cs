@@ -23,7 +23,7 @@ namespace MyFirstApp
     /// </summary>
     public partial class MainWindow : Window
     {
-        private readonly IFaceServiceClient faceServiceClient = new FaceServiceClient("2d08a42789ad482c80fd1a5551449f36");
+        private readonly IFaceServiceClient faceServiceClient = new FaceServiceClient("KEY");
 
 
         public MainWindow()
